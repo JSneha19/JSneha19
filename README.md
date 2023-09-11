@@ -1,4 +1,4 @@
-### Hi My name is Sneha
+### Hi! My name is Sneha
 
 
 **JSneha19/JSneha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
